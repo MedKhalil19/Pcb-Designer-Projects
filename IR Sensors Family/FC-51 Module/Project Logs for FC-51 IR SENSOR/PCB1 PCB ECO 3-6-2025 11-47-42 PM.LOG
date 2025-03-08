@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=PIN5 Pin=Q1-1
+Removed Pin From Net: NetName=GND Pin=Q1-2
+Removed Member From Class: ClassName=Sheet1 Member=Q1
+Added Component: Designator=Q?(WL-TTRB_D5H8.7)
+Add component (AddParameter): Name = "Category"; Value = "Phototransistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Chip Technology"; Value = "Si"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Current"; Value = "1.5mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector Current Min"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Collector-Emitter Dark Current"; Value = "100nA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/1540051NC2590?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/1540051NC2590?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1540051NC2590"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WL-TTRB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "NPN Phototransistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Range of Spectral Bandwidth Max"; Value = "1100nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Range of Spectral Bandwidth Min"; Value = "700nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "25°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength of Peak Sensitivity"; Value = "940nm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PIN5 Pin=Q?-1
+Added Pin To Net: NetName=GND Pin=Q?-2
+Added Member To Class: ClassName=Sheet1 Member=Component Q? 1540051NC2590
