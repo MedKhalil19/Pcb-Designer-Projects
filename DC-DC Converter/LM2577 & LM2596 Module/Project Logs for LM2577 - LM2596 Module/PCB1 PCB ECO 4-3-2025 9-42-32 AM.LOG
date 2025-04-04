@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=NetC6_1 Pin=D4-1
+Removed Pin From Net: NetName=NetC5_1 Pin=D4-2
+Removed Member From Class: ClassName=Sheet1 Member=D?
+Change Component Footprint: Designator=D4 Old Footprint=ROHM-VMN2-2_V New Footprint=DIOD-SOD323-2-A_V
+Change Component Comment : Designator=D4 Old Comment=1SS400CSFH New Comment=1N4148WS-7-F
+Change Managed Component Library Link : Designator=D4 Old VaultGUID=7A3203D9-ED49-4EC5-A06E-EEA078B9106F New VaultGUID=7A3203D9-ED49-4EC5-A06E-EEA078B9106F Old ItemGUID=D3232316-476C-4092-8B2E-AA3467901AD4 New ItemGUID=4D110485-2082-4416-85B4-EDBE6D3BA3DA Old RevisionGUID=A673A725-4D44-4C45-AA58-07BEC6EC11E4 New RevisionGUID=FECB4E22-8472-41D2-89F8-784DD927ECE8
+Change component parameters: Designator = "D4" ("D4"); Footprint = "ROHM-VMN2-2_V"; UniqueID = "\RIWQYRMT" ("\RIWQYRMT")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SOD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.diodes.com/datasheets/ds30097.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. 25-2, 03/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Elements"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Current"; Value = "300mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Voltage"; Value = "1.25V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Diodes Inc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.diodes.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Surge Current"; Value = "2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-65°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Small Outline Diode, Body 1.7 x 1.3 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "SOD323-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Peak Inverse Voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Peak Reverse Current"; Value = "1uA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Recovery Time"; Value = "4ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC5_1 Pin=D4-1
+Added Pin To Net: NetName=NetC6_1 Pin=D4-2

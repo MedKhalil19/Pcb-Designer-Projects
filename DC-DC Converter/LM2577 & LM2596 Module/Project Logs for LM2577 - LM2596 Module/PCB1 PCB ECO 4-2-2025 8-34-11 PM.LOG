@@ -1,0 +1,102 @@
+Change Component Footprint: Designator=VR? Old Footprint=TO170P1524X483-6N New Footprint=TRIM_3296W1103LF
+Change Component Comment : Designator=VR? Old Comment=LM2577S-ADJ New Comment=3296W1103LF
+Change component parameters: Designator = "VR?" ("VR?"); Footprint = "TO170P1524X483-6N"; UniqueID = "\DBEUTPNJ" ("\DBEUTPNJ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/3296W1103LF/Bourns/view-part/2487625/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "3296W1103LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/3296W1103LF/Bourns/view-part/2487625/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIO_SK54B)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SK54B/Taiwan+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SK54B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMB-2 Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SK54B/Taiwan+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIO_SS34)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SS34/Taiwan+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SS34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214AB-2 Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SS34/Taiwan+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=F?(BOUR-MF-MSMF110-24X-2_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "20A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.bourns.com/docs/Product-Datasheets/mfmsmf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. AG, 08/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Voltage"; Value = "24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 4.6 x 3.24 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "MF-MSMF110-24X-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.18Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "24V"; VariantName = "[No Variations]"
+Added Component: Designator=L?(INDM125125X600N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/DR125-330-R/Eaton/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Eaton"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DR125-330-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Non Standard Coiltronics / Eaton"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DR125-330-R/Eaton/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L?(INDM125125X600N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/DR125-330-R/Eaton/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Eaton"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DR125-330-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Non Standard Coiltronics / Eaton"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DR125-330-R/Eaton/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(VREG_LM2596S-3.3/NOPB)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LM2596S-3.3/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM2596S-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-263-5 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM2596S-3.3/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VR?(TO170P1524X483-6N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LM2577S-ADJ/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM2577S-ADJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-263-5 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM2577S-ADJ/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VOUT + Pin=C?-1
+Added Pin To Net: NetName=VOUT + Pin=F?-1
+Added Pin To Net: NetName=VOUT + Pin=L?-1
+Added Pin To Net: NetName=VIN + Pin=L?-2
+Added Pin To Net: NetName=VOUT + Pin=VR?-2
+Added Pin To Net: NetName=VOUT + Pin=VR?-3
+Added Pin To Net: NetName=VIN + Pin=VR?-5
+Added Pin To Net: NetName=4 Pin=U?-4
+Added Pin To Net: NetName=4 Pin=VR?-1
+Added Net: Name=4
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=D?-A
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD?_A Pin=D?-A
+Added Pin To Net: NetName=NetD?_A Pin=L?-1
+Added Net: Name=NetD?_A
+Added Pin To Net: NetName=NetD?_C Pin=D?-C
+Added Pin To Net: NetName=NetD?_C Pin=U?-1
+Added Net: Name=NetD?_C
+Add Net: Net with name "NetD?_C" already exists
+Added Member To Class: ClassName=Sheet1 Member=Component D? SK54B
+Added Member To Class: ClassName=Sheet1 Member=Component D? SS34
+Added Member To Class: ClassName=Sheet1 Member=Component F? MF-MSMF110/24X-2
+Added Member To Class: ClassName=Sheet1 Member=Component J? TB006-508-02BE
+Added Member To Class: ClassName=Sheet1 Member=Component L? DR125-330-R
+Added Member To Class: ClassName=Sheet1 Member=Component L? DR125-330-R
+Added Member To Class: ClassName=Sheet1 Member=Component U? LM2596S-3.3/NOPB
+Added Member To Class: ClassName=Sheet1 Member=Component VR? LM2577S-ADJ
+Added Rule: Name=Schematic Supply Nets

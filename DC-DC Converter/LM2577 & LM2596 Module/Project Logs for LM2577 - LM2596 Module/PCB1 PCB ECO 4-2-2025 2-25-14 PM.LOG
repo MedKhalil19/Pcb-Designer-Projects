@@ -1,0 +1,27 @@
+Added Component: Designator=C?(CAP_EEEFK1V221P)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEEFK1V221P/Panasonic/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EEEFK1V221P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEEFK1V221P/Panasonic/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VR?(TO170P1524X483-6N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LM2577S-ADJ/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM2577S-ADJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-263-5 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM2577S-ADJ/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLabel336 Pin=VR?-1
+Added Net: Name=NetLabel336
+Added Pin To Net: NetName=NetLabel337 Pin=VR?-4
+Added Net: Name=NetLabel337
+Added Pin To Net: NetName=NetLabel338 Pin=VR?-2
+Added Net: Name=NetLabel338
+Added Pin To Net: NetName=NetLabel339 Pin=VR?-3
+Added Net: Name=NetLabel339
+Added Pin To Net: NetName=NetLabel340 Pin=VR?-6
+Added Net: Name=NetLabel340
+Added Member To Class: ClassName=Sheet1 Member=Component C? EEEFK1V221P
+Added Member To Class: ClassName=Sheet1 Member=Component J? TB006-508-02BE
+Added Member To Class: ClassName=Sheet1 Member=Component VR? LM2577S-ADJ

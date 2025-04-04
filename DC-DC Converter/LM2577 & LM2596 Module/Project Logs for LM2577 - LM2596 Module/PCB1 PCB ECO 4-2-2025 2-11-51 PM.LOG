@@ -1,0 +1,7 @@
+Add Component: Footprint Not Found CUI_TB006-508-02BE
+Add Component: Footprint Not Found CUI_TB006-508-02BE
+Added Net: Name=VIN +
+Added Net: Name=VIN -
+Added Net: Name=VOUT +
+Added Net: Name=VOUT -
+Added Class: Name=Sheet1

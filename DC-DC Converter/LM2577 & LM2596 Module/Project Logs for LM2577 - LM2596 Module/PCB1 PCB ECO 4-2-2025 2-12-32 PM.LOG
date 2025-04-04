@@ -1,0 +1,20 @@
+Added Component: Designator=J?(CUI_TB006-508-02BE)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TB006-508-02BE/Same+Sky/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TB006-508-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TB006-508-02BE/Same+Sky/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(CUI_TB006-508-02BE)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TB006-508-02BE/Same+Sky/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TB006-508-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TB006-508-02BE/Same+Sky/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN - Pin=J?-1
+Added Pin To Net: NetName=VOUT + Pin=J?-1
+Added Pin To Net: NetName=VIN + Pin=J?-2
+Added Pin To Net: NetName=VOUT - Pin=J?-2
+Added Member To Class: ClassName=Sheet1 Member=Component J? TB006-508-02BE
+Added Member To Class: ClassName=Sheet1 Member=Component J? TB006-508-02BE
